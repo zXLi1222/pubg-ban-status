@@ -5,10 +5,9 @@
     "build": "your-build-command"
   },
   "dependencies": {
-    "node-fetch": "^3.0.0",  // 确保这里包含了 node-fetch
-    "other-dependency": "^1.0.0"
+    "node-fetch": "^3.0.0"
   },
   "engines": {
-    "node": "14.x"  // 确保 Node.js 版本与 Netlify 环境兼容
+    "node": "14.x"
   }
 }
