@@ -1,1 +1,0 @@
-# pubg-ban-status
